@@ -1,0 +1,32 @@
+Empresas Rotas
+
+#listagem de Empresas
+url: /empresas
+resposta:json_empresas.json
+Metodo GET
+Filtros GET:
+    Rastreadoras / Parceiros
+    Cliente / Fornecedor
+    Razão Social / Nome Fantasia
+    CPF/CNPJ
+    Tipo Pessoa
+    Por Status
+    Telemetria
+    Gerenciamento de Risco
+
+
+
+#lista de Empresa unica
+url: /empresas/{empresaId}
+resposta:json_empresa_unica.json
+metodo GET
+
+#Cadastro Empresa
+url: /empresas
+resposta:json_resposta_padrao.json
+metodo POST
+
+#Atualiza Empresa
+url: /empresas/{empresaId}
+resposta:json_resposta_padrao.json
+metodo PATCH
