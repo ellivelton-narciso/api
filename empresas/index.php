@@ -32,6 +32,6 @@ $matriz['situacaoIcon'] = "situacaoIcon";
 $matriz['situacaoColor'] = "situacaoColor";
 
 
-    echo json_encode($matriz);
+    echo json_encode([$matriz]);
 
 ?>
