@@ -5,14 +5,15 @@ url: /empresas
 resposta:json_empresas.json
 Metodo GET
 Filtros GET:
-    Rastreadoras / Parceiros
-    Cliente / Fornecedor
-    Razão Social / Nome Fantasia
-    CPF/CNPJ
-    Tipo Pessoa
-    Por Status
-    Telemetria
-    Gerenciamento de Risco
+    Rastreadoras / Parceiros (SELECT>OPTION)
+    Cliente / Fornecedor (SELECT>OPTION)
+    Razão Social / Nome Fantasia (INPUT AUTOCOMPLTE)
+    CPF/CNPJ (input)
+    Tipo Pessoa (SELECT>OPTION)
+    Por Status (SELECT>OPTION) MULTISELECT
+    Telemetria (CHECKBOX)
+    Gerenciamento de Risco (checkbox)
+
 
 
 
