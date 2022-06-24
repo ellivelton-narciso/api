@@ -1,5 +1,6 @@
 [
     {
+        "id":"1",
         "idEmpresa": "1",
         "idEmpresa_gerencia": "1",
         "nomeFantasia_empGerencia": "Nome Fantasia Gerência 1",
@@ -15,6 +16,7 @@
         "tipoUsuario": "Logistrack"
     },
     {
+        "id":"2",
         "idEmpresa": "2",
         "idEmpresa_gerencia": "2",
         "nomeFantasia_empGerencia": "Nome Fantasia Gerência 2",
@@ -30,6 +32,7 @@
         "tipoUsuario": "Revendedor"
     },
     {
+        "id":"3",
         "idEmpresa": "3",
         "idEmpresa_gerencia": "3",
         "nomeFantasia_empGerencia": "Nome Fantasia Gerência 3",
@@ -45,6 +48,7 @@
         "tipoUsuario": "Cliente Final"
     },
     {
+        "id":"4",
         "idEmpresa": "4",
         "idEmpresa_gerencia": "4",
         "nomeFantasia_empGerencia": "Nome Fantasia Gerência 4",
