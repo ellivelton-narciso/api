@@ -1,0 +1,28 @@
+id=>oculto
+idEmpresa=>oculto
+idEmpresa_gerencia=>oculto
+Nome Fantasia Empresa Gerencia
+Razao Social Empresa Gerencia
+Nome fantasia Empresa
+Razao social empresa
+Nome
+Email
+telefone
+Usuario
+Perfil de Usuario
+Ultimo Loign
+Tipo de Usuario => Logistrack, revendedor, cliente final
+BTN Logar como usuario
+Editar
+inativar
+
+Filtros:
+Empresa => input text autocomplete
+nome usuario/login de usuario/email => input text autocomplete
+Filto Ultitmo Login Dt1=>input date
+Filto Ultitmo Login Dt2=>input date
+
+Cards Coloridos
+Usuarios Ativos
+Usuarios Inativos
+Usuarios Inadimplentes

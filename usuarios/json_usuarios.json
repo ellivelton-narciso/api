@@ -1,0 +1,62 @@
+[
+    {
+        "idEmpresa": "1",
+        "idEmpresa_gerencia": "1",
+        "nomeFantasia_empGerencia": "Nome Fantasia Gerência 1",
+        "razaoSocial_empGerencia": "Razai Social Gerencia 1",
+        "nomeFatansia_emp": "Nome Fantasia 1",
+        "razaoSocial_emp": "Razão Social 1",
+        "nome": "Fulano deTal",
+        "email": "email@email.com",
+        "telefone": "6733334444",
+        "usuario": "fulano",
+        "perfilUsuario": "Nome do Plano",
+        "ultimoLogin": "01/02/2022 12:20:35",
+        "tipoUsuario": "Logistrack"
+    },
+    {
+        "idEmpresa": "2",
+        "idEmpresa_gerencia": "2",
+        "nomeFantasia_empGerencia": "Nome Fantasia Gerência 2",
+        "razaoSocial_empGerencia": "Razai Social Gerencia 2",
+        "nomeFatansia_emp": "Nome Fantasia 2",
+        "razaoSocial_emp": "Razão Social 2",
+        "nome": "Fulano deTal",
+        "email": "email@email.com",
+        "telefone": "6733334444",
+        "usuario": "fulano",
+        "perfilUsuario": "Nome do Plano",
+        "ultimoLogin": "01/02/2022 12:20:35",
+        "tipoUsuario": "Revendedor"
+    },
+    {
+        "idEmpresa": "3",
+        "idEmpresa_gerencia": "3",
+        "nomeFantasia_empGerencia": "Nome Fantasia Gerência 3",
+        "razaoSocial_empGerencia": "Razai Social Gerencia 3",
+        "nomeFatansia_emp": "Nome Fantasia 3",
+        "razaoSocial_emp": "Razão Social 3",
+        "nome": "Fulano deTal",
+        "email": "email@email.com",
+        "telefone": "6733334444",
+        "usuario": "fulano",
+        "perfilUsuario": "Nome do Plano",
+        "ultimoLogin": "01/02/2022 12:20:35",
+        "tipoUsuario": "Cliente Final"
+    },
+    {
+        "idEmpresa": "4",
+        "idEmpresa_gerencia": "4",
+        "nomeFantasia_empGerencia": "Nome Fantasia Gerência 4",
+        "razaoSocial_empGerencia": "Razai Social Gerencia 4",
+        "nomeFatansia_emp": "Nome Fantasia 4",
+        "razaoSocial_emp": "Razão Social 4",
+        "nome": "Fulano deTal",
+        "email": "email@email.com",
+        "telefone": "6733334444",
+        "usuario": "fulano",
+        "perfilUsuario": "Nome do Plano",
+        "ultimoLogin": "01/02/2022 12:20:35",
+        "tipoUsuario": "Revendedor"
+    }
+]
