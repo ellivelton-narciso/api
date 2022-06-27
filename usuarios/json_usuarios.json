@@ -12,6 +12,9 @@
         "telefone": "6733334444",
         "usuario": "fulano",
         "perfilUsuario": "Nome do Plano",
+        "situacaoIcon": "fas fa-circle",
+        "situacaoColor": "text-success",
+        "situacaoTexto": "Ativo",
         "ultimoLogin": "01/02/2022 12:20:35",
         "tipoUsuario": "Logistrack"
     },
@@ -28,6 +31,9 @@
         "telefone": "6733334444",
         "usuario": "fulano",
         "perfilUsuario": "Nome do Plano",
+        "situacaoIcon": "fas fa-circle",
+        "situacaoColor": "text-danger",
+        "situacaoTexto": "Inativo",
         "ultimoLogin": "01/02/2022 12:20:35",
         "tipoUsuario": "Revendedor"
     },
@@ -44,6 +50,9 @@
         "telefone": "6733334444",
         "usuario": "fulano",
         "perfilUsuario": "Nome do Plano",
+        "situacaoIcon": "fas fa-circle",
+        "situacaoColor": "text-success",
+        "situacaoTexto": "Ativo",
         "ultimoLogin": "01/02/2022 12:20:35",
         "tipoUsuario": "Cliente Final"
     },
@@ -60,6 +69,9 @@
         "telefone": "6733334444",
         "usuario": "fulano",
         "perfilUsuario": "Nome do Plano",
+        "situacaoIcon": "fas fa-circle",
+        "situacaoColor": "text-warning",
+        "situacaoTexto": "Inadimplente",
         "ultimoLogin": "01/02/2022 12:20:35",
         "tipoUsuario": "Revendedor"
     }
