@@ -1,0 +1,12 @@
+[
+    {
+        "id":"1",
+        "idEmpresa": "1",
+        "nomeEmpresa": "Nome da Empresa",
+        "disponivelVenda": true,
+        "disponivelObjPess": false,
+        "situacaoIcon": "fas fa-circle",
+        "situacaoColor": "text-success",
+        "situacaoTexto": "Ativo"
+    }
+]
