@@ -2,7 +2,7 @@
     {
         "id":"1",
         "idEmpresa": "1",
-        "nomeEmpresa": "Nome da Empresa",
+        "nomePlano": "Nome do Plano",
         "disponivelVenda": true,
         "disponivelObjPess": false,
         "situacaoIcon": "fas fa-circle",
