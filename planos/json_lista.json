@@ -1,12 +1,12 @@
 [
     {
-        id :"1",
-        idEmpresa : "1",
-        nomePlano : "Nome do Plano",
-        disponivelVenda : true,
-        disponivelObjPess : false,
-        situacaoIcon : "fas fa-circle",
-        situacaoColor : "text-success",
-        situacaoTexto : "Ativo"
+        "id":"1",
+        "idEmpresa": "1",
+        "nomePlano": "Nome do Plano",
+        "disponivelVenda": true,
+        "disponivelObjPess": false,
+        "situacaoIcon": "fas fa-circle",
+        "situacaoColor": "text-success",
+        "situacaoTexto": "Ativo"
     }
 ]
