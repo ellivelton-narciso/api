@@ -15,21 +15,19 @@ json_orcamentos
     "complemento": STRING
     "created_at": STRING
     "updated_at": STRING
-
-orcamnetos_items
-
-    "orcamento_item_id": INT
-    "propriedade": STRING
-    "plano_id": INT
-    "plano_nome": STRING
-    "tp_instalacao_id": INT
-    "tp_instalacao_nome": STRING
-    "qtd_veiculos": INT
-    "vlr_unitario_planos": FLOAT
-    "vlr_total_plano": FLOAT
-    "vlr_tx_install_uni": FLOAT
-    "vlr_tx_install_total": FLOAT
-    "situacao_id": INT
-    "situacao_nome": STRING
-    "created_at": STRING
-    "updated_at": STRING
+    "orcamento_items":
+        "orcamento_item_id": INT
+        "propriedade": STRING
+        "plano_id": INT
+        "plano_nome": STRING
+        "tp_instalacao_id": INT
+        "tp_instalacao_nome": STRING
+        "qtd_veiculos": INT
+        "vlr_unitario_planos": FLOAT
+        "vlr_total_plano": FLOAT
+        "vlr_tx_install_uni": FLOAT
+        "vlr_tx_install_total": FLOAT
+        "situacao_id": INT
+        "situacao_nome": STRING
+        "created_at": STRING
+        "updated_at": STRING
